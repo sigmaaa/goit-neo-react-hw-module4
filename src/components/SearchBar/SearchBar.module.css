@@ -1,0 +1,30 @@
+.header {
+    padding: 20px;
+}
+
+.searchForm {
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.searchInput {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-right: 10px;
+    width: 300px;
+}
+
+.searchBtn {
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid black;
+    background-color: rgba(51, 51, 51, 0.05);
+    color: #333333;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
